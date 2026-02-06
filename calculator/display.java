@@ -24,6 +24,6 @@ public class display {
     }
 
     public void thankYou(){
-        System.out.println("ขอบคุณที่ใช้งาน");
+        System.out.println("ขอบคุณที่ใช้งาน good bye");
     }
 }
