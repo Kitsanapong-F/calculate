@@ -22,4 +22,8 @@ public class display {
         System.out.println("ANSWER: " + result); // แสดงผลลัพธ์
         System.out.println("================================");
     }
+
+    public void thankYou(){
+        System.out.println("ขอบคุณที่ใช้งาน");
+    }
 }
