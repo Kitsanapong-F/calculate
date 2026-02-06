@@ -83,6 +83,8 @@ public class Calculator {
             }
         }
 
+        display.thankYou();
+
         input.close();
     }
 }
